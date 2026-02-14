@@ -17,9 +17,9 @@
 <br>
 
 <p align="center">
-  <img src="forth level.png" height="250px" alt="UE5 Scene">
+  <img src="forth level.png" height="200px" alt="UE5 Scene">
   &nbsp;&nbsp;
-  <img src="second level.png" height="250px" alt="Gamified Interaction">
+  <img src="second level.png" height="200px" alt="Gamified Interaction">
 </p>
 
 ### ⚡Innovation
@@ -78,6 +78,7 @@ MindCare has received the following honors during the development and competitio
 <div align="center">
   <img src="Team_photo.jpg" width="1000" alt="MindCare">
 </div>
+
 
 
 
