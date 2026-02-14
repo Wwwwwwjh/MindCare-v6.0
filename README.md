@@ -1,5 +1,5 @@
 
-# <img src="logo.png" width="70px" style="vertical-align: middle;"> MindCare v6.0 —— Multimodal Intelligent Psychological Diagnosis System
+# <img src="logo.png" width="40px" style="vertical-align: middle;"> MindCare v6.0 —— Multimodal Intelligent Psychological Diagnosis System
 
 <div align="center">
   <img src="Cover.png" width="900" >
@@ -76,8 +76,9 @@ MindCare has received the following honors during the development and competitio
 
 ### 💡 Our team
 <div align="center">
-  <img src="team_photo.jpg" width="1000" alt="MindCare">
+  <img src="Team_photo.jpg" width="1000" alt="MindCare">
 </div>
+
 
 
 
