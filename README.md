@@ -1,2 +1,0 @@
-# MindCare
-1
